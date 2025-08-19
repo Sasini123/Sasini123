@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋 I'm Sasini Rajamanukula  
 
-<!--
-**Sasini123/Sasini123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Java | Spring Boot | React | PostgreSQL | MongoDB  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 Computer Science Undergraduate  
+- 🌱 Currently learning **Spring Boot Microservices & React**  
+- 💡 Interested in **AI + Full Stack Development**  
+- ⚡ Love building real-world projects and solving problems  
+
+---
+
+## 🔧 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📌 Pinned Projects
+- [**FastX-2.0**](https://github.com/ashiduDissanayake/FastX-2.0) – JavaScript-based system  
+- [**OttrPad Frontend**](https://github.com/OttrPad/Frontend) – Frontend with TypeScript  
+- [**Lankapura Weda Madura**](https://github.com/Sameemadhu16/LankaPura_WedaMadura) – Ayurveda platform  
+
+---
+
+## 📊 GitHub Stats
+![Sasini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasini123&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasini123&layout=compact&theme=radical)
+
+---
+
+## 🌍 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)
