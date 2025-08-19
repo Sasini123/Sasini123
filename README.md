@@ -1,10 +1,12 @@
+<div align="center">
+
 # Hi there 👋 I'm Sasini Rajamanukula  
-  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=DA0037&width=500&lines=Full+Stack+Developer;Problem+Solver;Passionate+about+Learning)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&width=500&lines=Full+Stack+Developer;Problem+Solver;Passionate+about+Learning)](https://git.io/typing-svg)
 
 🚀 Full Stack Developer | Java | Spring Boot | React | PostgreSQL | MongoDB  
+
+</div>
 
 ---
 
