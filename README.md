@@ -11,7 +11,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Computer Science & Engineering Undergraduate at University of Moratuwa  
+- 🎓 Computer Science & Engineering Undergraduate at University of Moratuwa, Sri Lanka
 - 💻 Full Stack Developer (React, Node.js, MySQL, MongoDB)  
 - 🤖 Passionate about **AI, Machine Learning & Deep Learning**  
 - ⚡ Love building real-world projects and solving problems  
