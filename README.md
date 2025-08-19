@@ -65,7 +65,8 @@
 ## 📌 Pinned Projects
 - [**FastX-2.0**](https://github.com/ashiduDissanayake/FastX-2.0) – JavaScript-based system  
 - [**OttrPad Frontend**](https://github.com/OttrPad/Frontend) – Frontend with TypeScript  
-- [**Lankapura Weda Madura**](https://github.com/Sameemadhu16/LankaPura_WedaMadura) – Ayurveda platform  
+- [**Lankapura Weda Madura**](https://github.com/Sameemadhu16/LankaPura_WedaMadura) – Ayurveda platform
+- [**E-commerce clothing platform**](https://github.com/Sameemadhu16/LankaPura_WedaMadura) – E-commerce platform  
 
 ---
 
